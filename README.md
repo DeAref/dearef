@@ -39,7 +39,7 @@
 
 </p>
 
-* 📖 Pursuing PhD in Data Science & Engineering @ [The University of Tennessee](https://bredesencenter.utk.edu/the-data-science-and-engineering-phd/). 
+* 📖 Pursuing Bachelor in IT & Engineering @ [Shamsipour College](http://shamsipour.tvu.ac.ir/). 
 
 * 🎓 Conducting research on **AI** and **Computer Vision** @ [the AICIP Lab](https://aicip.github.io/research.htm).
 
