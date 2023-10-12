@@ -45,7 +45,7 @@
 
 * 💡 Open to collaborating on projects and innovative ideas. 
 
-* 💻 Currently working on Semantic Segmentation, Domain Adaptation, and Remote Sensing.
+* 💻 Currently working on webapp, virtual private networks, and hrm.
 <!--
 ### 🖥️ Open-Source Projects
 <table>
