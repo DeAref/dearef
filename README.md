@@ -41,7 +41,7 @@
 
 * 📖 Pursuing Bachelor in IT & Engineering @ [Shamsipour College](http://shamsipour.tvu.ac.ir/). 
 
-* 🎓 Conducting research on **AI** and **Computer Vision** @ [the AICIP Lab](https://aicip.github.io/research.htm).
+* 🎓 part time work on **android app** and **Automatic posting with Ai** @ [AppDuny](https://appduny.ir).
 
 * 💡 Open to collaborating on projects and innovative ideas. 
 
