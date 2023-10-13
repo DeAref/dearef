@@ -1,3 +1,4 @@
+<h1>عارف سلیمانی</h1>
 <p align="center">
 <a href="https://github.com/dearef">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1500&multiline=true&width=500&height=90&lines=Aref+Solaimany;+Researcher+%7C+It+Student;++Software+Engineer+%7C+Bloger+" alt="Typing SVG" />
